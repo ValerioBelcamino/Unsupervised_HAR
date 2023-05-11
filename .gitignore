@@ -1,4 +1,5 @@
 *.npy
 ./*.npy
-./__pycache__/
+./__pycache__
 *.pth
+__pycache__/models.cpython-38.pyc
