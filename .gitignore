@@ -1,3 +1,4 @@
 *.npy
 ./*.npy
 ./__pycache__/
+*.pth
